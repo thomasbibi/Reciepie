@@ -1,0 +1,8 @@
+body{
+    background-color: palevioletred;
+}
+
+input[type = "checkbox"]{
+    width: 10%;
+    height: 15px
+}
